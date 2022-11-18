@@ -1,0 +1,209 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+.btnn
+{
+ display: flex;
+ flex-direction: row;
+}
+.nav-bar{
+    height: 75px;
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 30px;
+
+}
+.list{
+    display: flex;
+    justify-content:  space-between;
+    /* border: 2px solid red; */
+    width: 350px;
+}
+
+.links{
+    display: flex;
+    justify-content: space-between;
+    color : white;
+    text-decoration: none;
+    font-size: x-large;
+}
+.btn1
+{
+    background-color: green;
+
+}
+.btn2
+{
+    background-color: red;
+}
+.btn1,.btn2{
+    color: white;
+    padding: 14px 20px;
+    border-radius: 30px;
+    font-size: large;
+}
+.container{
+    border: 1px solid black;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.podcast{
+    color: white;
+    background-color: blue;
+    padding: 8px 12px;
+    border-radius: 25px;
+    font-size: 20px;
+text-decoration: none;
+}
+.heading{
+    font-size: 60px;
+    text-align: center;
+}
+.para1
+{
+    width: 650px;
+    text-align: center;
+
+}
+.buttons
+{
+    display: flex;
+    justify-content: space-between;
+    width: 340px;
+}
+.btn{
+    font-size: 16px;
+    border-radius: 3px;
+    padding: 10px 24px;
+}
+.btn11
+{
+    background-color: blue;
+    color: white;
+    border: none;
+}
+.btn12
+{
+  background-color: white;
+  border: 1px solid gray;
+}
+.btn-link1
+{
+    text-decoration: none;
+    color: white;
+}
+.btn-link2
+{
+    text-decoration: none;
+    color: black;
+}
+.container2
+{
+    height: 600px;
+    display: flex;
+}
+.left-content{
+    margin-right: 30px;
+}
+.right-content{
+    width: 50px;
+}
+.content-list
+{
+    padding: 10px;
+    font-size: 16px;
+    color: gray;
+    width: 600px;
+    justify-content: center;
+    align-items: center;
+}
+.discord-btn
+{
+    border: none;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 30px;
+
+}
+.discord-link
+{
+    color: white;
+    text-decoration: none;
+    font-size: 10px;
+}
+hr{
+    width: 80%;
+    height: 3px;
+    background-color: black;
+}
+.footer
+{
+    width: 1000px;
+    display: flex;
+    justify-content: space-between;
+    padding: 100px;
+}
+.contact-links
+{
+    display: flex;
+    width: 400px;
+    justify-content: space-between;
+}
+.modal
+{
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+}
+.modal-content
+{
+    background-color: white;
+    padding: 20px;
+    border: 1px solid green;
+    width: 80%;
+    height: 50%;
+    margin: auto;
+}
+#course-container
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+
+}
+.course_card
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 150px;
+    color: white;
+    background-color: blue;
+    margin: 10px;
+
+}
