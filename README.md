@@ -11,7 +11,9 @@ Assignment 2
 Assignment 4
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/97904592/202771461-b9553abd-e3d6-4562-9537-a401cd445672.png">
-![image](https://user-images.githubusercontent.com/97904592/202771507-2e8bb320-5de9-4ef9-9dcc-4833592477fa.png)
-![image](https://user-images.githubusercontent.com/97904592/202771570-71fd3214-ea2d-4ea5-9622-00b7135157a3.png)
-![image](https://user-images.githubusercontent.com/97904592/202771668-7ee87803-3ab9-46dd-8081-4d4a0c7b1686.png)
-![image](https://user-images.githubusercontent.com/97904592/202771706-71451f2c-2fee-4be4-bd34-99caa7a4e504.png)
+<img width="959" alt="image" src="https://user-images.githubusercontent.com/97904592/202772384-e02de09a-5496-4573-8be3-9617c7497f78.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/97904592/202772499-2c68813e-92d4-4f1b-9a4b-8d088026e9a1.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/97904592/202772608-ece8ed5c-b954-411a-9418-b37c7777752c.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/97904592/202772718-5d035693-dab7-4986-a770-601dda0a4d33.png">
+
+
