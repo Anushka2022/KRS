@@ -4,28 +4,54 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Assignment 2</title>
-    <link rel="stylesheet" href="./assign2.css">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
 </head>
 <body>
-
-    <nav class="flexb">
-        <a href="https://www.figma.com/community/file/819663390811057710"><img src="./logo.png"></a> 
-        <a >Home</a>
-        <a>Product</a>
-        <a>About</a>
-        <a>Contact</a>
-        <button type="button" id="transparent">Log in</button>
-    </nav>
     <center>
-        <h1>Work at the speed <br> of thought</h1>
-        <br>
+    <section>
+        <div class="flex-container2" id="gradient">
+        <h1 id="header">What does your Name say about your<br>
+             PERSONALITY?</h1>
+
+             <div class="nav-bar" id="gradient2">
+               
         
-        <p>Most calenders are designed for teams. State is <br> designed for freelancers who want a simple way to <br> plan their schedule</p>
-        <br>
-        <br>
-        <button class="flexb2" id="trybutton" type="button">Try for free</button>
-        <button class="flexb2"  type="button">Learn More</button>
+         <div>
+          
+          <input type="text" name="" id="nameid" placeholder="Name">
+         </div>
+
+
+         <div>
+            <label placeholder="Gender">
+                <select id="gender">
+                <option disabled selected hidden>Gender</option>
+                
+                <option >Male</option>
+                <option>Female</option>
+                <option>Other</option>
+                </select>
+                </label>
+         </div>
+
+         </div>
+       
+         <div id="result" class="imgdiv">
+          <img src="./pic/girl.gif" width="200" height="200" class="imgchange">
+         </div>
+         <br>
+       
+         <button id="btn">See</button>
+         
+        </div>
+       </section>
+
     </center>
+       
+       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+
+       
+<script src="./index.js"></script>
 </body>
 </html>

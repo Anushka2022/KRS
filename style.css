@@ -1,0 +1,114 @@
+body{
+    background-color:  #30bfcf;
+    margin-top: 25px;
+    padding: 1px;
+}
+
+#gradient
+{
+    /* height: 150px;
+  background: linear-gradient(to left,  opacity= 0.4);
+  opacity: 0.4; */
+  /* #gradient { */
+    /* height: 150px; */
+    background: linear-gradient(to right,#e1fbff, #69dce9);
+  
+}
+#gradient2
+{
+    /* height: 150px;
+  background: linear-gradient(to left,  opacity= 0.4);
+  opacity: 0.4; */
+  /* #gradient { */
+    /* height: 150px; */
+    background: linear-gradient(to right,#e1fbff, #69dce9);
+  
+}
+.flex-container {
+    justify-content:center;
+      display: flex;
+      background-color: #a8e9f1;
+      height:fit-content;
+      width: 30px;
+      border: none;
+      height: 80%;
+    }
+    .flex-container2 {
+        margin-top: 40px;
+        align-items: center;
+    justify-content:center;
+      display: flex;
+      border-radius: 15px;
+      background-color: #bff4f9;
+      display: block;
+      width: 60%;
+      height: 500px;
+      border: 3px solid rgba(0, 0, 0, 0);
+      color: #658ec6;
+    }
+    .flex-container > div {
+      background-color: #f1f1f1;
+      justify-content: space-around;
+      border:  none;
+      margin: 10px;
+      padding: 0px;
+      color: #658ec6;
+      
+      
+    }
+    .nav-bar{
+        height: 75px;
+        display: flex;
+        background-color:#bff4f9;
+        justify-content: space-around;
+        align-items: center;
+        padding: 8px 30px;
+        color: #658ec6;
+    
+    }
+    #header
+    {
+    display:flex;
+    justify-content :center;
+    color: #658ec6;
+    }
+    #nameid
+    {
+    padding:0px;
+    margin:0px;
+    width: 180px;
+    height: 40px;
+    border: 3px solid rgba(0, 0, 0, 0);
+    border-radius: 5px;
+    background-color: #c8eef3;
+    color: #658ec6;
+    }
+    #gender
+    {
+        
+        border-radius: 5px ;
+        border: 3px solid rgba(0, 0, 0, 0);
+        padding:0px;
+    margin:0px;
+    width: 180px;
+    height: 50px;
+    background-color: #8bdfe8;
+    text-decoration-color: #658ec6;
+    }
+
+    
+    #img1
+    {
+        width: 20%;
+        height: 20%;
+        display: flex;
+        justify-content: center;
+    } 
+    #btn
+    {
+        width: 250px;
+    height: 50px;
+    border-radius: 0px;
+    background-color: #a8e9f1;
+    border: 1px solid #658ec6;
+    }
