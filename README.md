@@ -16,4 +16,10 @@ Assignment 4
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/97904592/202772608-ece8ed5c-b954-411a-9418-b37c7777752c.png">
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/97904592/202772718-5d035693-dab7-4986-a770-601dda0a4d33.png">
 
+Assignment API
+
+<img width="929" alt="image" src="https://user-images.githubusercontent.com/97904592/204006274-687e786a-bde2-48d9-9529-53077de19d07.png">
+<img width="710" alt="image" src="https://user-images.githubusercontent.com/97904592/204006523-1ba8c545-4de7-4ea0-8965-328ee8e6f489.png">
+<img width="755" alt="image" src="https://user-images.githubusercontent.com/97904592/204006686-c5c6916b-34b9-476e-b9cf-f70e5366909a.png">
+
 
